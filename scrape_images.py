@@ -10,7 +10,6 @@ food_list = [
     'soto ayam ',
     'bakso ',
     'rendang '
-    
 ]
 
 # Create test directory if it doesn't exist
